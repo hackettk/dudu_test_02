@@ -1,0 +1,5 @@
+langchain==0.3.27
+langchain_core==0.3.79
+langchain_openai==0.3.35
+langsmith==0.4.35
+python-dotenv==1.1.1
